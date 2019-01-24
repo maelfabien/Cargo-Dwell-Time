@@ -92,4 +92,4 @@ Overall, the problem appears quite challenging due to the diversity of the data 
 The model architecture was inspired by a recent paper by Ioanna Kourounioti : ”Development of Models Predicting Dwell Time of Import Containers in Port Container Terminals – An Artificial Neural Networks Application”. The model is made of 4 hidden layers. There is a large trend for overfitting in this data set. Therefore, several drop out and batch normalization layers are necessary.
 There is room for a large amount of improvements on the structure proposed. There is a total of 99’401 parameters. There are some overfitting issues that could also be solved by a better deep learning model. Overall, the confidence interval at 95%, in hour, is [6.51 ; 53.54].
 
-![alt text](images/mdoel.png)
+![alt text](images/model.png)
